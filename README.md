@@ -1,2 +1,2 @@
 # iCoderBootstrap
-This is a basic website made purely using BOOTSTRAP.
+This is a basic website made using HTML and BOOTSTRAP.
